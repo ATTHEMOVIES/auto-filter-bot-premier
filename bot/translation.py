@@ -41,12 +41,12 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - <b>Button Will Shows The Stats Of Your Channel</b>
             
-<b><a href="https://t.me/LXRBOTSGROUP">© LXR YOUTUBER</a></b>
+<b><a href="https://t.me/ATM_MM">© AT THE MOVIES</a></b>
 """
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
 
-<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/LXRBOTSGROUP">👤 LXR YOUTUBER</a></b>
+<b>>➥👨‍💼Master</b> : <b><a href="https://t.me/ATM_MM">👤 AT THE MOVIES</a></b>
 
 <b>➥ 🎬turtoil video</b> : <b><a href="https://youtu.be/pgupV-C6B74">👤LXR AMAL BOTS</a></b>
 
@@ -54,5 +54,5 @@ For More Details Click Help Button Below..
 
 <b>➥ 📚Library</b> : <b><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></b>
 
-<b>➥ 📖Source Code</b> : <b><a href="https://github.com/LXR-YOUTUBER-AMAL/auto-filter-bot-premier">💥Click Me</a></b>
+<b>➥ 📖Source Code</b> : <b><a href="https://t.me/tom_hiddlestom">💥Click Me</a></b>
 """
