@@ -8,7 +8,7 @@ class Translation(object):
 <i>Am Just A Advance Auto Filter Bot....😉
 Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🌚🎀
 For More Details Click Help Button Below..
-@LXRYOUTUBERYT
+@tom_hiddlestom
 </i>"""        
     
     HELP_TEXT = """
